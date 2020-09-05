@@ -1,7 +1,7 @@
 <%-- 
-    Document   : Pago
-    Created on : 26/11/2016, 07:29:45 PM
-    Author     : MIGUEL 19
+      Document   : pago
+    Created on : 11/08/2020, 07:00:26 PM
+    Author     : alejo
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
